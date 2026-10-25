@@ -1,0 +1,8 @@
+.slogan-card {
+  background: linear-gradient(135deg, #6610f2 0%, #0d6efd 50%, #0dcaf0 100%);
+}
+
+.slogan-card .badge {
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+}
