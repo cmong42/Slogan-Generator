@@ -1,0 +1,16 @@
+{
+  "name": "slogan-generator-backend",
+  "version": "1.0.0",
+  "description": "Generates hilarious and witty slogans via a local Ollama instance",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
